@@ -1,8 +1,6 @@
 // *******************************************************************************
-// Assignment 7B: File Display Program
+// Assignment: File Display Program
 // Author: Rayyan Ahmed
-// Description: Displays user program, wait for input after 24 lines
-// Status: Complete
 // Date: October 29, 2023
 // ********************************************************************************
 #include <iostream>
