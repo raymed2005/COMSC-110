@@ -1,8 +1,6 @@
 // *******************************************************************************
-// Assignment 4B: Math Tutor (Revised)
+// Assignment: Math Tutor
 // Author: Rayyan Ahmed
-// Description: This program is a revised Math Tutor from part 3C
-// Status: Complete
 // Date: September 29, 2023
 // ********************************************************************************
 #include <iostream>
