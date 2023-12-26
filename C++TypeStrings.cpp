@@ -1,8 +1,6 @@
 // *******************************************************************************
-// Assignment 8B: C++ Type Strings
+// Assignment: C++ Type Strings
 // Author: Rayyan Ahmed
-// Description: Part 2 Of The Assignment
-// Status: Complete
 // Date: November 12, 2023
 // ********************************************************************************
 #include <iostream>
