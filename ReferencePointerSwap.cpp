@@ -1,8 +1,6 @@
 // *******************************************************************************
 // Assignment 10C: Reference Pointer Swap
 // Author: Rayyan Ahmed
-// Description: Swaps pointers and nums
-// Status: Complete
 // Date: December 1, 2023
 // ********************************************************************************
 #include <iostream>
