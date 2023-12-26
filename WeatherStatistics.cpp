@@ -1,8 +1,6 @@
 // *******************************************************************************
-// Assignment 9C: Weather Statistics
+// Assignment: Weather Statistics
 // Author: Rayyan Ahmed
-// Description: Calcuates rainfall and temperature for each month, returns statistics
-// Status: Complete
 // Date: November 16, 2023
 // ********************************************************************************
 #include <iostream>
