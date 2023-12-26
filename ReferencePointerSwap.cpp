@@ -1,5 +1,5 @@
 // *******************************************************************************
-// Assignment 10C: Reference Pointer Swap
+// Assignment: Reference Pointer Swap
 // Author: Rayyan Ahmed
 // Date: December 1, 2023
 // ********************************************************************************
