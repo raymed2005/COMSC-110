@@ -1,5 +1,5 @@
 // *******************************************************************************
-// Assignment 6B: Rainfall Statistics
+// Assignment: Rainfall Statistics
 // Author: Rayyan Ahmed
 // Date: October 20, 2023
 // ********************************************************************************
