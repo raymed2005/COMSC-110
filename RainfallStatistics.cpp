@@ -1,8 +1,6 @@
 // *******************************************************************************
 // Assignment 6B: Rainfall Statistics
 // Author: Rayyan Ahmed
-// Description: Returns months with highest and lowest rain, total and average rainfall
-// Status: Complete
 // Date: October 20, 2023
 // ********************************************************************************
 #include <iostream>
