@@ -1,8 +1,6 @@
 // *******************************************************************************
 // Assignment 5C: Lowest Score Drop
 // Author: Rayyan Ahmed
-// Description: Calculates average of test scores after dropping lowest
-// Status: Complete
 // Date: October 7, 2023
 // ********************************************************************************
 #include <iostream>
