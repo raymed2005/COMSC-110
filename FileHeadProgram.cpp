@@ -1,8 +1,6 @@
 // *******************************************************************************
 // Assignment 7A: File Head Program
 // Author: Rayyan Ahmed
-// Description: Displays first ten lines of users file
-// Status: Complete
 // Date: October 29, 2023
 // ********************************************************************************
 #include <iostream>
